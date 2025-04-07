@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: white;
     margin: 0;
     padding: 0;
 }
@@ -12,7 +12,7 @@ body {
 
 nav ul {
     list-style-type: none;
-    background-color: #333;
+    background-color: white;
     padding: 0;
     text-align: center;
 }
@@ -30,7 +30,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #575757;
+    background-color: white;
 }
 
 h2 {
